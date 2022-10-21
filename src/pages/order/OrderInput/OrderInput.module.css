@@ -1,0 +1,21 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.Input {
+  /* max-width: 432px; */
+  width: 90%;
+  height: 46px;
+  padding: 0 10%;
+  border: 1px solid #f6c016;
+  border-radius: 25px;
+  font-size: 18px;
+  background-image: url("/public/img/input-search-icon.png");
+  background-repeat: no-repeat;
+  background-position: 20px center;
+  font-family: "Noto Sans KR", sans-serif;
+  /* margin: 0 auto; */
+  font-weight: 400;
+  padding-left: 50px;
+  /* margin-left: 4%; */
+  /* margin-bottom: 300px; */
+  
+}

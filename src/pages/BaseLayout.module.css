@@ -1,0 +1,28 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.fixed_navi {
+  height: 90px;
+  border-top: solid 1px #acacac;
+  position: fixed;
+  bottom: 0;
+  z-index: 299;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  background-color: #fff;
+}
+
+.fixed_navi_img img {
+  width: 28px;
+}
+
+.fixed_navi > div {
+  flex: 1;
+  text-align: center;
+}
+.fixed_navi_title {
+  font-size: 18px;
+}
